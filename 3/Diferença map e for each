@@ -1,0 +1,3 @@
+ O método forEach() executa uma dada função em cada elemento de um array.
+ O método map() invoca a função callback passada por argumento para cada elemento 
+ do Array e devolve um novo Array como resultado.
